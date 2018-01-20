@@ -30,5 +30,5 @@ platzom("sometemos") // SoMeTeMoS
 - [Sacha Lifszyc](https://twitter.com/@slifszyc)
 - [Jerson Moreno](https://twiiter.com/@JersonMorenoR)
 
-## Liucencia
+## Licencia
 [MIT](https://opensource.org/licenses/MIT)
